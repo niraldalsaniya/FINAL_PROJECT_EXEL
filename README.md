@@ -1,4 +1,3 @@
-Here is a proper, step-by-step README file for your Excel Sales Dashboard project. You can copy it into a separate sheet named Read Me in the same Excel workbook.
 
 # README — Excel Sales Dashboard Project
 
